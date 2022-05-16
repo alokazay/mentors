@@ -1,5 +1,7 @@
 .div h1 {
   color: red;
+  font-size: 14px;
+  border: 1px solid red;
 }
 
 /*# sourceMappingURL=style.css.map */
