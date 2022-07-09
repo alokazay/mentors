@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" promptOnRemoteOverwrite="CHECK_CONTENT" serverName="secure" remoteFilesAllowedToDisappearOnAutoupload="false" notifyRemoteChanges="true">
+  <component name="PublishConfigData" autoUpload="Always" promptOnRemoteOverwrite="CHECK_CONTENT" serverName="landing" remoteFilesAllowedToDisappearOnAutoupload="false" notifyRemoteChanges="true">
     <serverData>
-      <paths name="secure">
+      <paths name="landing">
         <serverdata>
           <mappings>
             <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="landing_r">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$/assets" web="/" />
           </mappings>
         </serverdata>
       </paths>
